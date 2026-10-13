@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+**/node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Android / iOS build artifacts
+build/
+**/build/
+.gradle/
+**/.gradle/
+*.iml
+.idea/
+**/.idea/
+.DS_Store
+
+# React Native
+ChatApp/.bundle/
+ChatApp/android/.gradle/
+ChatApp/android/app/build/
+ChatApp/ios/build/
+ChatApp/ios/Pods/
